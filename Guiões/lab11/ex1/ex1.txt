@@ -1,0 +1,3 @@
+a) Padrão Strategy
+
+

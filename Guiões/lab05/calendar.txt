@@ -1,0 +1,2 @@
+No código de java.util.calendar podemos encontrar métodos por exemplo createCalendar ou getInstance() que servem para criar objetos do tipo Calendar e por isso utiliza o padrão Factory.
+O método computeFields() pode ser considerado um padrão Template porque define o esqueleto do algoritmo de cálculo dos campos de uma instância de Calendar e coloca a implementação de etapas específicas para as subclasses.

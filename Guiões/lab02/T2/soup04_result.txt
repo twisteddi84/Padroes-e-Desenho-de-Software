@@ -1,0 +1,6 @@
+ZGRADA 6 1.7 down
+KUCA 4 6.5 left
+PAS 3 6.1 up
+AUTO 4 7.5 right
+KOSARA 6 3.2 down
+

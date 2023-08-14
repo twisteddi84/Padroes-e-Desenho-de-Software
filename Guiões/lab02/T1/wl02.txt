@@ -1,0 +1,4 @@
+David; Guilherme, terra; carro; marte;
+rato ; ratoeira; 
+faro;farol;
+flores,zebra

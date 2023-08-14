@@ -1,0 +1,2 @@
+teste; mar palavra ; sapo
+Homem; Mulher

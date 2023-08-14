@@ -1,0 +1,5 @@
+ORMAR 5 5.2 right
+KREVET 6 7.8 left
+STOL 4 1.6 left
+VRATA 5 3.1 right
+

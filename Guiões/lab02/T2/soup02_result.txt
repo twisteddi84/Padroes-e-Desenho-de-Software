@@ -1,0 +1,5 @@
+SUNCE 5 2.7 left
+MORE 4 4.1 down
+OBLAK 5 4.8 left
+LJETO 5 4.2 downRight
+
